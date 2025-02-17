@@ -70,7 +70,5 @@ npm start
 ## **👨‍💻 Author**
 **Yaswanth Sri**  
 📧 yaswanthvuyyuru@gmail.com 
-🔗 [GitHub Profile]([https://github.com/yashh-17])  
-
 ---
   

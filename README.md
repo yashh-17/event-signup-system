@@ -68,9 +68,9 @@ npm start
 ---
 
 ## **👨‍💻 Author**
-**Yaswanth Sri **  
+**Yaswanth Sri**  
 📧 yaswanthvuyyuru@gmail.com 
-🔗 [GitHub Profile]([https://github.com/yourprofile](https://github.com/yashh-17))  
+🔗 [GitHub Profile]([https://github.com/yashh-17])  
 
 ---
   

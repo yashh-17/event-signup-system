@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import { signupForEvent } from './api'; // Import the signup function
+import { signupForEvent } from './api';
 
 const EventList = () => {
   const [events, setEvents] = useState([]);
 
   useEffect(() => {
-    fetchEvents(); // Fetch events on component mount
+    fetchEvents();
   }, []);
 
   const fetchEvents = async () => {
@@ -20,15 +20,12 @@ const EventList = () => {
 
   const handleSignup = async (eventId) => {
     try {
-      // Call the signup function from api.js
-      await signupForEvent(eventId);  // No need to store the result
-      // Update the events list after signup (to show updated signup count)
+      await signupForEvent(eventId);
       fetchEvents();
     } catch (error) {
       console.error('Error signing up for event:', error);
     }
   };
-  
 
   return (
     <div>

@@ -66,9 +66,4 @@ npm start
 - 📊 **Admin Dashboard for Event Management**
 
 ---
-
-## **👨‍💻 Author**
-**Yaswanth Sri**  
-📧 yaswanthvuyyuru@gmail.com 
----
   

@@ -4,14 +4,6 @@ A **MERN Stack** web application for managing event signups, allowing users to v
 
 ---
 
-## **📌 Features**
-- 📅 **View Upcoming Events** with details such as date, location, and signup count  
-- ✅ **User Registration for Events** with real-time signup tracking  
-- 🌍 **Online & Offline Event Management**  
-- 🔗 **RESTful API for event management**  
-
----
-
 ## **🛠 Tech Stack**
 ### **Frontend** (React.js)  
 - **React** for UI  
